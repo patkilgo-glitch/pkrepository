@@ -1,0 +1,136 @@
+Flight No.,Date and time ( UTC ),"Version, Booster   [ b ]",Launch site,Payload [ c ],Payload mass,Orbit,Customer,Launch outcome,Booster landing,Payload,Version Booster,Date,Time
+1,,,CCAFS,,,LEO,SpaceX,Success,Failure[9][10](parachute),Dragon Spacecraft Qualification Unit,F9 B5,6 June 2021,04:26
+2,,,CCAFS,,,LEO (ISS),"NASA (COTS)
+NRO",Success[9],Failure[9][14](parachute),Dragon,F9 v1.07B0003.18,4 June 2010,18:45
+3,,,CCAFS,,"525 kg (1,157 lb)[19]",LEO (ISS),NASA (COTS),Success[20],No attempt,Dragon,F9 v1.07B0004.18,8 December 2010,15:43
+4,,,CCAFS,,"4,700 kg (10,400 lb)",LEO (ISS),NASA (CRS),Success,No attempt,SpaceX CRS-1,F9 v1.07B0005.18,22 May 2012,07:44
+5,,,CCAFS,,"4,877 kg (10,752 lb)",LEO (ISS),NASA (CRS),Success,No attempt,SpaceX CRS-2,F9 v1.07B0006.18,8 October 2012,00:35
+6,,,VAFB,,"500 kg (1,100 lb)",Polar orbit LEO,MDA,Success[30],Uncontrolled(ocean)[d],CASSIOPE,F9 v1.07B0007.18,1 March 2013,15:10
+7,,,CCAFS,,"3,170 kg (6,990 lb)",GTO,SES,Success[37],No attempt[38],SES-8,F9 v1.17B10038,29 September 2013,16:00
+8,,,CCAFS,,"3,325 kg (7,330 lb)",GTO,Thaicom,Success[42],No attempt[43],Thaicom 6,F9 v1.1,3 December 2013,22:41
+9,,,Cape Canaveral,,"2,296 kg (5,062 lb)[45]",LEO (ISS),NASA (CRS),Success,Controlled(ocean) [d][46],SpaceX CRS-3,F9 v1.1,6 January 2014,22:06
+10,,,Cape Canaveral,,"1,316 kg (2,901 lb)",LEO,Orbcomm,Success[51],Controlled(ocean)[d][46],Orbcomm-OG2,F9 v1.1,18 April 2014,19:25
+11,,,Cape Canaveral,,"4,535 kg (9,998 lb)",GTO,AsiaSat,Success[56],No attempt[57],AsiaSat 8,F9 v1.1,14 July 2014,15:15
+12,,,Cape Canaveral,,"4,428 kg (9,762 lb)",GTO,AsiaSat,Success[59],No attempt,AsiaSat 6,F9 v1.1,5 August 2014,08:00
+13,,,Cape Canaveral,,"2,216 kg (4,885 lb)[62]",LEO (ISS),NASA (CRS),Success[63],Uncontrolled(ocean)[d][64],SpaceX CRS-4,F9 v1.1[,7 September 2014,05:00
+14,,,Cape Canaveral,,"2,395 kg (5,280 lb)[69]",LEO (ISS),NASA (CRS),Success[70],Failure (drone ship),SpaceX CRS-5,F9 v1.1[,21 September 2014,05:52
+15,,,Cape Canaveral,,"570 kg (1,260 lb)",HEO(Sun–Earth L1 insertion),"USAF
+NASA
+NOAA",Success,Controlled(ocean)[d],DSCOVR,F9 v1.1[,10 January 2015,09:47
+16,,,Cape Canaveral,,"4,159 kg (9,169 lb)",GTO,"ABS
+Eutelsat",Success,No attempt[77],ABS-3A,F9 v1.1[,11 February 2015,23:03
+17,,,Cape Canaveral,,"1,898 kg (4,184 lb)[82]",LEO (ISS),NASA (CRS),Success,Failure[83](drone ship),SpaceX CRS-6,F9 v1.1[,2 March 2015,03:50
+18,,,Cape Canaveral,,"4,707 kg (10,377 lb)",GTO,Turkmenistan NationalSpace Agency[88],Success,No attempt[89],TürkmenÄlem 52°E / MonacoSAT,F9 v1.1[,14 April 2015,20:10
+19,,,Cape Canaveral,,"1,952 kg (4,303 lb)[92]",LEO (ISS),NASA (CRS),Failure[93](in flight),Precluded[94](drone ship),SpaceX CRS-7,F9 v1.1[,27 April 2015,23:03
+20,,,Cape Canaveral,,"2,034 kg (4,484 lb)",LEO,Orbcomm,Success,Success[99](ground pad),Orbcomm-OG2,F9 v1.1[,28 June 2015,14:21
+21,,,VAFB,,"553 kg (1,219 lb)",LEO,"NASA (LSP)
+NOAA
+CNES",Success,Failure(drone ship),Jason-3,F9 FT[,22 December 2015,01:29
+22,,,Cape Canaveral,,"5,271 kg (11,621 lb)",GTO,SES,Success,Failure(drone ship),SES-9,F9 v1.1[,17 January 2016,18:42
+23,,,Cape Canaveral,,"3,136 kg (6,914 lb)[116]",LEO (ISS),NASA (CRS),Success[117],Success[118](drone ship),SpaceX CRS-8,F9 FT[,4 March 2016,23:35
+24,,,Cape Canaveral,,"4,696 kg (10,353 lb)[124]",GTO,SKY Perfect JSAT Group,Success,Success(drone ship),JCSAT-14,F9 FT[,8 April 2016,20:43
+25,,,Cape Canaveral,,"3,100 kg (6,800 lb)[132]",GTO,Thaicom,Success,Success[133](drone ship),Thaicom 8,F9 FT[,6 May 2016,05:21
+26,,,Cape Canaveral,,"3,600 kg (7,900 lb)",GTO,"ABS
+Eutelsat",Success,Failure[64](drone ship),ABS-2A,F9 FT[,27 May 2016,21:39
+27,,,Cape Canaveral,,"2,257 kg (4,976 lb)[142]",LEO (ISS),NASA (CRS),Success,Success(ground pad),SpaceX CRS-9,F9 FT[,15 June 2016,14:29
+28,,,Cape Canaveral,,"4,600 kg (10,100 lb)",GTO,SKY Perfect JSAT Group,Success,Success(drone ship),JCSAT-16,F9 FT[,18 July 2016,04:45
+29,,,VAFB,,"9,600 kg (21,200 lb)",Polar LEO,Iridium Communications,Success,Success[154](drone ship),Iridium NEXT,F9 FT[,14 August 2016,05:26
+30,,,KSC,,"2,490 kg (5,490 lb)[160]",LEO (ISS),NASA (CRS),Success,Success(ground pad),SpaceX CRS-10,F9 FT[,14 January 2017,17:54
+31,,,KSC,,"5,600 kg (12,300 lb)[164]",GTO,EchoStar,Success,No attempt[165],EchoStar 23,F9 FT[,19 February 2017,14:39
+32,,,KSC,,"5,300 kg (11,700 lb)[169]",GTO,SES,Success[170],Success(drone ship),SES-10,F9 FT[,16 March 2017,06:00
+33,,,KSC,,Classified,LEO[175],NRO,Success,Success(ground pad),NROL-76,F9 FT♺[,30 March 2017,22:27
+34,,,KSC,,"6,070 kg (13,380 lb)[181]",GTO,Inmarsat,Success,No attempt[165],Inmarsat-5 F4,F9 FT[,1 May 2017,11:15
+35,,,KSC,,"2,708 kg (5,970 lb)[186]",LEO (ISS),NASA (CRS),Success,Success(ground pad),SpaceX CRS-11,F9 FT[,15 May 2017,23:21
+36,,,KSC,,"3,669 kg (8,089 lb)[197]",GTO,Bulsatcom,Success,Success(drone ship),BulgariaSat-1,F9 FT[,3 June 2017,21:07
+37,,,VAFB,,"9,600 kg (21,200 lb)",LEO,Iridium Communications,Success,Success(drone ship),Iridium NEXT,F9 FTB1029.2195,23 June 2017,19:10
+38,,,KSC,,"6,761 kg (14,905 lb)[202]",GTO,Intelsat,Success,No attempt[165],Intelsat 35e,F9 FT[,25 June 2017,20:25
+39,,,KSC,,"3,310 kg (7,300 lb)",LEO (ISS),NASA (CRS),Success,Success(ground pad),SpaceX CRS-12,F9 FT[,5 July 2017,23:38
+40,,,VAFB,,"475 kg (1,047 lb)[212]",SSO,NSPO,Success,Success(drone ship),Formosat-5,F9 B4[,14 August 2017,16:31
+41,,,KSC,,"4,990 kg (11,000 lb)[216]+ OTV payload",LEO,USAF,Success,Success(ground pad),Boeing X-37B,F9 FT[,24 August 2017,18:51
+42,,,VAFB,,"9,600 kg (21,200 lb)",Polar LEO,Iridium Communications,Success,Success(drone ship),Iridium NEXT,F9 B4[,7 September 2017,14:00
+43,,,KSC,,"5,200 kg (11,500 lb)",GTO,"SES S.A.
+EchoStar",Success,Success(drone ship),SES-11,F9 B4[,9 October 2017,12:37
+44,,,KSC,,"3,500 kg (7,700 lb)",GTO,KT Corporation,Success,Success(drone ship),Koreasat 5A,F9 FTB1031.2220,11 October 2017,22:53:00
+45,,,Cape Canaveral,,"2,205 kg (4,861 lb)",LEO (ISS),NASA (CRS),Success,Success(ground pad),SpaceX CRS-13,F9 B4[,30 October 2017,19:34
+46,,,VAFB,,"9,600 kg (21,200 lb)",Polar LEO,Iridium Communications,Success[230],Controlled(ocean)[d][230],Iridium NEXT,F9 FTB1035.2227,15 December 2017,15:36
+47,,,CCAFS,,Classified,LEO,Northrop Grumman [f][238],Success[241],Success(ground pad),Zuma,F9 FTB1036.2227,23 December 2017,01:27
+48,,,CCAFS,,"4,230 kg (9,330 lb)[247]",GTO,SES,Success[248],Controlled(ocean)[d][248],GovSat-1,F9 B4[,8 January 2018,01:00
+49,,,VAFB,,"2,150 kg (4,740 lb)",SSO,"Hisdesat
+exactEarth
+SpaceX",Success[271],No attempt[271],Paz,F9 FTB1032.2245,31 January 2018,21:25
+50,,,CCAFS,,"6,092 kg (13,431 lb)[279]",GTO,"Hispasat[277]
+NovaWurks",Success[280],No attempt[281],Hispasat 30W-6,F9 FTB1038.2268,22 February 2018,14:17
+51,,,VAFB,,"9,600 kg (21,200 lb)",Polar LEO,Iridium Communications,Success[286],No attempt[287],Iridium NEXT,F9 B4[,6 March 2018,05:33
+52,,,CCAFS,,"2,647 kg (5,836 lb)[292]",LEO (ISS),NASA (CRS),Success[293],No attempt[294],SpaceX CRS-14,F9 B4B1041.2268,30 March 2018,14:14
+53,,,CCAFS,,362 kg (798 lb)[305],HEO for P/2 orbit,NASA (LSP),Success[306],Success[306](drone ship),Transiting Exoplanet Survey Satellite,F9 B4B1039.2292,2 April 2018,20:30
+54,,,KSC,,"3,600 kg (7,900 lb)[314]",GTO,Thales-Alenia / BTRC,Success[315],Success[315](drone ship),Bangabandhu-1,F9 B4[,18 April 2018,22:51
+55,,,VAFB,,"6,460 kg (14,240 lb)[g]",Polar LEO,"Iridium Communications
+GFZ • NASA",Success[327],No attempt[165],Iridium NEXT,F9 B5311B1046.1268,11 May 2018,20:14
+56,,,CCAFS,,"5,384 kg (11,870 lb)[332]",GTO,SES,Success[333],No attempt[165],SES-12,F9 B4B1043.2322,22 May 2018,19:47
+57,,,CCAFS,,"2,697 kg (5,946 lb)[337]",LEO (ISS),NASA (CRS),Success[338],No attempt[165],SpaceX CRS-15,F9 B4B1040.2268,4 June 2018,04:45
+58,,,CCAFS,,"7,075 kg (15,598 lb)[342]",GTO[343],Telesat,Success[344],Success[344](drone ship),Telstar 19V,F9 B4B1045.2336,29 June 2018,09:42
+59,,,VAFB,,"9,600 kg (21,200 lb)",Polar LEO,Iridium Communications,Success[351],Success[352](drone ship),Iridium NEXT,F9 B5,22 July 2018,05:50
+60,,,CCAFS,,"5,800 kg (12,800 lb)[357]",GTO,Telkom Indonesia,Success[358],Success[358](drone ship),Merah Putih,F9 B5349B1048[,25 July 2018,11:39
+61,,,CCAFS,,"7,060 kg (15,560 lb)[361]",GTO[361],Telesat,Success[361],Success[361](drone ship),Telstar 18V,F9 B5B1046.2354,7 August 2018,05:18
+62,,,VAFB,,"3,000 kg (6,600 lb)[363]",SSO,CONAE,Success[363],Success[363](ground pad),SAOCOM 1A,F9 B5[,10 September 2018,04:45
+63,,,KSC,,"5,300 kg (11,700 lb)[369]",GTO,Es'hailSat,Success[370],Success[370](drone ship),Es'hail 2,F9 B5B1048.2364,8 October 2018,02:22
+64,,,VAFB,,"~4,000 kg (8,800 lb)[372]",SSO,Spaceflight Industries,Success[373],Success[373](drone ship),SSO-A,F9 B5B1047.2268,15 November 2018,20:46
+65,,,CCAFS,,"2,500 kg (5,500 lb)[382]",LEO (ISS),NASA (CRS),Success,Failure[383](ground pad),SpaceX CRS-16,F9 B5B1046.3268,3 December 2018,18:34:05
+66,,,CCAFS,,"4,400 kg (9,700 lb)[388]",MEO,USAF,Success[386],No attempt[386],GPS III,F9 B5[,5 December 2018,18:16
+67,,,VAFB,,"9,600 kg (21,200 lb)",Polar LEO,Iridium Communications,Success,Success(drone ship),Iridium NEXT,F9 B5[,23 December 2018,13:51
+68,,,CCAFS,,"4,850 kg (10,690 lb)[403]",GTO,"PSN
+SpaceIL / IAI
+Air Force Research",Success,Success(drone ship),Nusantara Satu,F9 B5B1049.2397,11 January 2019,15:31
+69,,,KSC,,"12,055 kg (26,577 lb)[415][h]",LEO (ISS),NASA (CCD),Success,Success(drone ship),Crew Dragon Demo-1,F9 B5B1048.3399,22 February 2019,01:45
+70,,,CCAFS,,"2,495 kg (5,501 lb)[432]",LEO (ISS),NASA (CRS),Success,Success(drone ship),SpaceX CRS-17,F9 B5[]413,2 March 2019,07:49
+71,,,CCAFS,,"13,620 kg (30,030 lb)[5]",LEO,SpaceX,Success,Success(drone ship),Starlink,F9 B5[,4 May 2019,06:48
+72,,,VAFB,,"4,200 kg (9,300 lb)[443]",SSO,Canadian Space Agency (CSA),Success,Success(ground pad),RADARSAT Constellation,F9 B5B1049.3434,24 May 2019,02:30
+73,,,CCAFS,,"2,268 kg (5,000 lb)[464]",LEO (ISS),NASA (CRS),Success,Success(ground pad),SpaceX CRS-18,F9 B5B1051.2420,12 June 2019,14:17
+74,,,CCAFS,,"6,500 kg (14,300 lb)[474]",GTO,Spacecom,Success,No attempt[474],AMOS-17,F9 B5B1056.2465,25 July 2019,22:01
+75,,,CCAFS,,"15,600 kg (34,400 lb)[5]",LEO,SpaceX,Success,Success(drone ship),Starlink,F9 B5B1047.3472,6 August 2019,23:23
+76,,,CCAFS,,"2,617 kg (5,769 lb)",LEO (ISS),NASA (CRS),Success,Success(drone ship),SpaceX CRS-19,F9 B5,11 November 2019,14:56
+77,,,CCAFS,,"6,956 kg (15,335 lb)[486]",GTO,Sky Perfect JSATKacific 1,Success,Success(drone ship),JCSat-18,F9 B5[,5 December 2019,17:29
+78,,,CCAFS,,"15,600 kg (34,400 lb)[5]",LEO,SpaceX,Success,Success(drone ship),Starlink,F9 B5B1056.3482,17 December 2019,00:10
+79,,,KSC,,"12,050 kg (26,570 lb)",Sub-orbital[496],NASA (CTS)[497],Success,No attempt,Crew Dragon in-flight abort test,F9 B5,7 January 2020,02:19:21
+80,,,CCAFS,,"15,600 kg (34,400 lb)[5]",LEO,SpaceX,Success,Success(drone ship),Starlink,F9 B5,19 January 2020,15:30
+81,,,CCAFS,,"15,600 kg (34,400 lb)[5]",LEO,SpaceX,Success,Failure(drone ship),Starlink,F9 B5,29 January 2020,14:07
+82,,,CCAFS,,"1,977 kg (4,359 lb)[507]",LEO (ISS),NASA (CRS),Success,Success(ground pad),SpaceX CRS-20,F9 B5,17 February 2020,15:05
+83,,,KSC,,"15,600 kg (34,400 lb)[5]",LEO,SpaceX,Success,Failure(drone ship),Starlink,F9 B5,7 March 2020,04:50
+84,,,KSC,,"15,600 kg (34,400 lb)[5]",LEO,SpaceX,Success,Success(drone ship),Starlink,F9 B5,18 March 2020,12:16
+85,,,KSC,,"12,530 kg (27,620 lb)[519]",LEO (ISS),NASA (CCDev),Success,Success(drone ship),Crew Dragon Demo-2,F9 B5,22 April 2020,19:30
+86,,,CCAFS,,"15,600 kg (34,400 lb)[5]",LEO,SpaceX,Success,Success(drone ship),Starlink,F9 B5[,30 May 2020,19:22
+87,,,CCAFS,,"15,410 kg (33,970 lb)[523]",LEO,SpaceXPlanet Labs,Success,Success(drone ship),Starlink,F9 B5,4 June 2020,01:25
+88,,,CCAFS,,"4,311 kg (9,504 lb)[530]",MEO,U.S. Space Force[530],Success,Success(drone ship),GPS III,F9 B5,13 June 2020,09:21
+89,,,CCAFS,,"5,000–6,000 kg (11,000–13,000 lb)",GTO,Republic of Korea Army,Success,Success(drone ship),ANASIS-II,F9 B5,30 June 2020,20:10:46
+90,,,KSC,,"14,932 kg (32,919 lb)",LEO,SpaceXSpaceflight Industries (BlackSky),Success,Success(drone ship),Starlink,F9 B5B1058.2544,20 July 2020,21:30
+91,,,CCAFS,,"~15,440 kg (34,040 lb)",LEO,SpaceXPlanet Labs,Success,Success(drone ship),Starlink,F9 B5,7 August 2020,05:12
+92,,,CCAFS,,"3,130 kg (6,900 lb)[558]",SSO,CONAEPlanetIQTyvak,Success,Success(ground pad),SAOCOM 1B,F9 B5B1049.6544,18 August 2020,14:31
+93,,,KSC,,"15,600 kg (34,400 lb)[5]",LEO,SpaceX,Success,Success(drone ship),Starlink,F9 B5,30 August 2020,23:18
+94,,,KSC,,"15,600 kg (34,400 lb)[5]",LEO,SpaceX,Success,Success(drone ship),Starlink,F9 B5B1060.2563,3 September 2020,12:46:14
+95,,,KSC,,"15,600 kg (34,400 lb)[5]",LEO,SpaceX,Success,Success(drone ship),Starlink,F9 B5B1058.3565,6 October 2020,11:29:34
+96,,,CCAFS,,"15,600 kg (34,400 lb)",LEO,SpaceX,Success,Success(drone ship),Starlink,F9 B5B1051.6568,18 October 2020,12:25:57
+97,,,CCAFS,,"4,311 kg (9,504 lb)",MEO,USSF,Success,Success(drone ship),GPS III,F9 B5,24 October 2020,15:31:34
+98,,,KSC,,"~12,500 kg (27,600 lb)",LEO (ISS),NASA (CCP)[497],Success,Success(drone ship),Crew-1,F9 B5,5 November 2020,23:24:23
+99,,,VAFB,,"1,192 kg (2,628 lb)",LEO,NASA / NOAA / ESA / EUMETSAT,Success,Success(ground pad),Sentinel-6 Michael Freilich (Jason-CS A),F9 B5[,16 November 2020,00:27
+100,,,CCAFS,,"15,600 kg (34,400 lb)",LEO,SpaceX,Success,Success(drone ship),Starlink,F9 B5,21 November 2020,17:17:08
+101,,,KSC,,"2,972 kg (6,552 lb)",LEO (ISS),NASA (CRS),Success,Success(drone ship),SpaceX CRS-21,F9 B5 ♺[,25 November 2020,02:13
+102,,,CCSFS,,"7,000 kg (15,000 lb)",GTO,Sirius XM,Success,Success(drone ship),SXM-7,F9 B5 ♺[,6 December 2020,16:17:08
+103,,,KSC,,Classified,LEO,NRO,Success,Success(ground pad),NROL-108,F9 B5 ♺,13 December 2020,17:30:00
+104,,,CCSFS,,"3,500 kg (7,700 lb)",GTO,Türksat,Success,Success(drone ship),Türksat 5A,F9 B5 ♺,19 December 2020,14:00:00
+105,,,KSC,,"15,600 kg (34,400 lb)",LEO,SpaceX,Success,Success(drone ship),Starlink,F9 B5,8 January 2021,02:15
+106,,,CCSFS,,"~5,000 kg (11,000 lb)",SSO,Various,Success,Success(drone ship),Transporter-1,F9 B5B1051.8609,20 January 2021,13:02
+107,,,CCSFS,,"15,600 kg (34,400 lb)",LEO,SpaceX,Success,Success(drone ship),Starlink,F9 B5B1058.5613,24 January 2021,15:00
+108,,,CCSFS,,"15,600 kg (34,400 lb)",LEO,SpaceX,Success,Failure (drone ship),Starlink,F9 B5 ♺[,4 February 2021,06:19
+109,,,KSC,,"15,600 kg (34,400 lb)",LEO,SpaceX,Success,Success(drone ship),Starlink,F9 B5 ♺,16 February 2021,03:59:37
+110,,,CCSFS,,"15,600 kg (34,400 lb)",LEO,SpaceX,Success,Success(drone ship),Starlink,F9 B5 ♺[,4 March 2021,08:24
+111,,,KSC,,"15,600 kg (34,400 lb)",LEO,SpaceX,Success,Success(drone ship),Starlink,F9 B5 ♺[,11 March 2021,08:13:29
+112,,,CCSFS,,"15,600 kg (34,400 lb)",LEO,SpaceX,Success,Success(drone ship),Starlink,F9 B5 ♺,14 March 2021,10:01
+113,,,CCSFS,,"15,600 kg (34,400 lb)",LEO,SpaceX,Success,Success(drone ship),Starlink,F9 B5B1060.6643,24 March 2021,08:28
+114,,,KSC,,"~13,000 kg (29,000 lb)[648]",LEO (ISS),NASA (CTS)[497],Success,Success(drone ship),Crew-2,F9 B5 ♺,7 April 2021,16:34
+115,,,CCSFS,,"15,600 kg (34,400 lb)",LEO,SpaceX,Success,Success(drone ship),Starlink,F9 B5B1061.2647,23 April 2021,9:49
+116,,,KSC,,"15,600 kg (34,400 lb)",LEO,SpaceX,Success,Success(drone ship),Starlink,F9 B5B1060.7652,29 April 2021,03:44
+117,,,CCSFS,,"15,600 kg (34,400 lb)",LEO,SpaceX,Success,Success(drone ship),Starlink,F9 B5B1049.9655,4 May 2021,19:01
+118,,,KSC,,"~14,000 kg (31,000 lb)",LEO,SpaceX Capella Space and Tyvak,Success,Success(drone ship),Starlink,F9 B5B1051.10657,9 May 2021,06:42
+119,,,CCSFS,,"15,600 kg (34,400 lb)",LEO,SpaceX,Success,Success(drone ship),Starlink,F9 B5B1058.8660,15 May 2021,22:56
+120,,,KSC,,"3,328 kg (7,337 lb)",LEO (ISS),NASA (CRS),Success,Success(drone ship),SpaceX CRS-22,F9 B5B1063.2665,26 May 2021,18:59
+121,,,CCSFS,,"7,000 kg (15,000 lb)",GTO,Sirius XM,Success,Success(drone ship),SXM-8,F9 B5B1067.1668,3 June 2021,17:29
